@@ -1,0 +1,8 @@
+F:\csharp\UtilitiesAndSnippets\SelectBoxSwapper\SelectBoxSwapper\bin\Debug\SelectBoxSwapper.exe.config
+F:\csharp\UtilitiesAndSnippets\SelectBoxSwapper\SelectBoxSwapper\bin\Debug\SelectBoxSwapper.exe
+F:\csharp\UtilitiesAndSnippets\SelectBoxSwapper\SelectBoxSwapper\bin\Debug\SelectBoxSwapper.pdb
+F:\csharp\UtilitiesAndSnippets\SelectBoxSwapper\SelectBoxSwapper\obj\Debug\SelectBoxSwapper.Form1.resources
+F:\csharp\UtilitiesAndSnippets\SelectBoxSwapper\SelectBoxSwapper\obj\Debug\SelectBoxSwapper.Properties.Resources.resources
+F:\csharp\UtilitiesAndSnippets\SelectBoxSwapper\SelectBoxSwapper\obj\Debug\SelectBoxSwapper.csproj.GenerateResource.Cache
+F:\csharp\UtilitiesAndSnippets\SelectBoxSwapper\SelectBoxSwapper\obj\Debug\SelectBoxSwapper.exe
+F:\csharp\UtilitiesAndSnippets\SelectBoxSwapper\SelectBoxSwapper\obj\Debug\SelectBoxSwapper.pdb
