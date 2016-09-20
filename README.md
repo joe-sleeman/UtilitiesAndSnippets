@@ -1,9 +1,9 @@
 # UtilitiesAndSnippets
-A bunch of handy code snippets and utilities.
+A bunch of handy C# code snippets and utilities. 
 
 ### Factorials
 
-Recursive and iterative implementation of functions that calculate factorials for a passed in value
+Recursive and iterative implementation of functions that calculate factorials for a passed in value.
 
 ### FizzBuzz
 
